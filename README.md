@@ -24,7 +24,7 @@ Ensure you have the following installed:
 
 ---
 
-### Part 1: Backend Setup (Spring Boot)
+### 1: Backend Setup (Spring Boot)
 
 1.  **Clone Repository:** (If applicable)
     ```bash
